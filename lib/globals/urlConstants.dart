@@ -1,5 +1,5 @@
 class APIUrl {
-  static String key = 'sk_test_8f11d256073116ded93295de02b90ce517cf73c2';
+  static String key = 'YOUR_API_KEY';
 
   static const String baseUrl = 'https://api.paystack.co';
   static const String intialize = '$baseUrl/transaction/initialize';
